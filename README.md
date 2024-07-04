@@ -1,5 +1,5 @@
   
-<img  align="right"  src="https://github.com/nilsonqa/blob/main/profile.pic.jpg"  width="300"/>
+<h1 align="center"</h1><img align="right" src="computer.png" width="350"/>
 
   
   ## Hello World! 👩🏻‍💻
