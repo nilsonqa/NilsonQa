@@ -1,5 +1,5 @@
   
-<h1 align="center"</h1><img align="right" src="computer.png" width="350"/>
+
 
   
   ## Hello World! 👩🏻‍💻
