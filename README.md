@@ -21,7 +21,6 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
  
 
 ## Linguagens de programação
-
   
 <div  style="display: inline_block"><br/>
 
@@ -36,7 +35,6 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 
 
 ## DevOps
-
 <div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="jira"  src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
@@ -51,21 +49,16 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 
 </div><br/>
   
-
 ## Banco de dados
- 
-
-<div  style="display: inline_block"><br/>
+ <div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 
 </div><br/>
-
   
 ## Ferramentas, Frameworks e Bibliotecas
-
 <div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="figma"  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
@@ -85,10 +78,8 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 <img  aling="center"  alt="vscodestudio"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 </div><br/>
-  
-  
+    
 ## Testes
-
 <div  style="display: inline_block"><br/>
 
 <img  aling="center"  alt="junit"  src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
