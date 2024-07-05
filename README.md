@@ -5,9 +5,7 @@
   ## Hello World! 👩🏻‍💻
 
 *🔍 Especialista em Quality Assurance | Testes de Software 🔍*
-
    
-
  **Sobre mim**
 
   
@@ -17,13 +15,10 @@ Retrospective (Seu principal objetivo é fazer com que os integrantes reflitam s
   
 Para testes de U.I, realizo testes manuais e automatizados, utizando a IDE eclipse e bibliotecas como J.UNIT, CUCUMBER, E SELLENIUM WEBDRIVER.  
 Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramentas como Postman para testes de API, usando bibliotecas como Restassured, J unit e Json para os verbos Como Get e Post.
-
-
   
 
 ### 🚀 Skills
-
-  
+ 
 
 ## Linguagens de programação
 
@@ -40,8 +35,6 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 
 
 
-  
-
 ## DevOps
 
 <div  style="display: inline_block"><br/>
@@ -57,12 +50,10 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 <img  aling="center"  alt="gitlab"  src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 
 </div><br/>
-
   
 
 ## Banco de dados
-
-  
+ 
 
 <div  style="display: inline_block"><br/>
 
@@ -73,7 +64,6 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 </div><br/>
 
   
-
 ## Ferramentas, Frameworks e Bibliotecas
 
 <div  style="display: inline_block"><br/>
@@ -95,7 +85,6 @@ Atuo Com Automação de testes, atravês da IDE eclipse utilizando as Ferramenta
 <img  aling="center"  alt="vscodestudio"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 </div><br/>
-
   
   
 ## Testes
